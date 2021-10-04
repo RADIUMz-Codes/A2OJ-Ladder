@@ -1,0 +1,5 @@
+.cph
+*.exe
+*.bin
+test.cpp
+settings.json
